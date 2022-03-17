@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.0.2</version>
+    <title>$title$</title>
+    <authors>Yokogawa</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">Yokogawa</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
+    <description>Services</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>copyright Yokogawa 2021</copyright>
+    <tags>PACE Yokogawa</tags>
+  </metadata>
+</package>
